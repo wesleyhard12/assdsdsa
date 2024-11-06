@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #141414;
+    color: #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding-top: 30px;
+}
+
+/* Estilos adicionais omitidos para brevidade */
+
+/* Adicione o restante do CSS do seu código HTML aqui */
